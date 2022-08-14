@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jennihdk
 - 👀 I’m interested in Sport, Reading, Me time 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Swift
 - 📫 How to reach me: jenni.hdk@gmx.de
 
 <!---
